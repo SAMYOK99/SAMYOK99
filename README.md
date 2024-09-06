@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SAMYOK-LIMBU&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SAMYOK99&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/samyok-limbu-723bb0318" target="_blank">
+  <a href="https://www.linkedin.com/in/SAMYOK99-723bb0318" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://twitter.com/samyok_limbu" target="_blank">
@@ -65,11 +65,11 @@
 
 <h3 align="center">My GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMYOK-LIMBU&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMYOK-LIMBU&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMYOK-LIMBU&" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SAMYOK99&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMYOK99&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMYOK99&" alt="GitHub Streak Stats" />
 </p>
 
 <h4 align="center">
-  ⭐️ From <a href="https://github.com/SAMYOK-LIMBU" target="_blank">SAMYOK-LIMBU</a>
+  ⭐️ From <a href="https://github.com/SAMYOK99" target="_blank">SAMYOK99</a>
 </h4>
